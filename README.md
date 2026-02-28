@@ -1,4 +1,4 @@
-**Vedant's Development Environment**
+** Development Environment**
 -------------------------------------------------------
 
  - BASH - Contains bashrc and other files. Copy them directly to your home directory to use.

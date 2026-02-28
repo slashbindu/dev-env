@@ -8,7 +8,7 @@
 
 **Installation of `vim_runtime`**
 
-    git clone https://github.com/mathurvedant/dev-env.git
+    git clone https://github.com/username/dev-env.git
     git submodule update --init --recursive
     ln -s dev-env/VIM/vim_runtime ~/.vim_runtime
     sh ~/.vim_runtime/install_awesome_vimrc.sh
